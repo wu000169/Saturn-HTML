@@ -85,14 +85,14 @@ nav li{
 
 }
 #masthead{
-   background-image: url(""../img/2.jpg");
+  background-image: url(../img/2.jpg);
     -moz-background-size:100% 100%;
     background-size:100% 120%;
     background-repeat:no-repeat;
     padding-top: 150PX;
     padding-bottom: 150px;
     align-content: center;
-    background-repeat: repeat-y;
+      background-repeat: repeat-y;
     text-align:center;
   
     
