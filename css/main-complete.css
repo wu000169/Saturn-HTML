@@ -75,7 +75,7 @@ text-align:center;
 }
 nav li{
     display: inline;
-    padding: 3.5%
+    padding: 3.5%;
    
   
     
@@ -92,7 +92,7 @@ nav li{
     padding-top: 150PX;
     padding-bottom: 150px;
     align-content: center;
-      background-repeat: repeat-y;
+    background-repeat: repeat-y;
     text-align:center;
   
     
